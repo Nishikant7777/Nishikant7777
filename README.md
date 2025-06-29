@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nishikant Singh
 - 🎓 BTech CSE Student | JECRC University
-- 🤖 Learning Python, AI/ML, Web Development
-- 🔭 Currently working on: Python + ML projects
-- 📫 How to reach me: [LinkedIn link]
+- 🤖 Learning Python , Web Development
+- 🔭 Currently working on: Python 
+- 📫 How to reach me: [linkedin.com/in/nishikant-chauhan-211633279]
 - ⚡ Fun fact: I love building small tools and automating boring stuff!
 
 ## 🛠️ Languages & Tools
