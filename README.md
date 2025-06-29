@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishikant Singh
+- 🎓 BTech CSE Student | JECRC University
+- 🤖 Learning Python, AI/ML, Web Development
+- 🔭 Currently working on: Python + ML projects
+- 📫 How to reach me: [LinkedIn link]
+- ⚡ Fun fact: I love building small tools and automating boring stuff!
 
-<!--
-**Nishikant7777/Nishikant7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-Here are some ideas to get you started:
+## 🔥 Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishikant7777)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant7777&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
