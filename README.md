@@ -15,4 +15,6 @@
 ## 🔥 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishikant7777)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant7777&layout=compact) 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Nishikant7777&color=blue)
+
 
