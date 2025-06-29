@@ -52,4 +52,4 @@ These projects cover **core Python concepts** like:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-mini-projects.git
+git clone https://github.com/Nishikant7777/python-mini-projects.git
